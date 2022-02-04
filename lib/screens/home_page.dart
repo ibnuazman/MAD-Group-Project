@@ -121,7 +121,7 @@ class MyHomeState extends State {
         appBar: AppBar(
           centerTitle: true,
           title: Text('Simple Quiz App'),
-          backgroundColor: Colors.red[500],
+          backgroundColor: Colors.red,
         ),
         body: questionIndex < questions.length
             ? Quiz(questions, answerQuestion, questionIndex)
