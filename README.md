@@ -2,8 +2,8 @@
 This is the group project GitHub for CSC14311 Mobile Application section 1 on Semester 1 2021/2022 KICT IIUM Gombak. A simple quiz app for user to sign in and play the quiz game. At the end, the user can see the results and redo the quiz.
 
 ## Group Members:
-1- Muhammad Nur Firdaus Bin Muhamed Haireen 1815259\n
-2- Muhammad Hassan Bin M Ashhuri 1812637\n
+1- Muhammad Nur Firdaus Bin Muhamed Haireen 1815259
+2- Muhammad Hassan Bin M Ashhuri 1812637
 3- Muhammad Syazwan bin Azman 1822127
 
 ## How to run the file :
