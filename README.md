@@ -6,6 +6,10 @@ This is the group project GitHub for CSC14311 Mobile Application section 1 on Se
 2- Muhammad Hassan Bin M Ashhuri (1812637)
 3- Muhammad Syazwan bin Azman (1822127)
 
+## Test login
+Email: admintest@gmail.com
+Password: admintest
+
 ## How to run the file :
 1- Download the file
 2- Create a new project with command "flutter create"
